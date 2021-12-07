@@ -1,3 +1,0 @@
-Cmd+T     search filenames
-
-Cmd+R     reload web browser
