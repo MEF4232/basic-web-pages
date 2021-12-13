@@ -14,6 +14,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 3 - Links And Images
 
+> A website is just a collection of HTML files organized into folders. To refer to those files from inside of another file, the Internet uses “uniform resource locators” (URLs). ([Types Of Links](https://www.internetingishard.com/html-and-css/links-and-images/#absolute-relative-and-root-relative-links))
+
 ## ⬜ Chapter 4 - Hello, CSS
 
 ## ⬜ Chapter 5 - The Box Model
