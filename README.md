@@ -12,11 +12,13 @@ https://www.markdownguide.org/basic-syntax/
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
-## ⬜ Chapter 3 - Links And Images
+## ✅ Chapter 3 - Links And Images
 
 > A website is just a collection of HTML files organized into folders. To refer to those files from inside of another file, the Internet uses “uniform resource locators” (URLs). ([Types Of Links](https://www.internetingishard.com/html-and-css/links-and-images/#absolute-relative-and-root-relative-links))
 
 ## ⬜ Chapter 4 - Hello, CSS
+
+> You can think of Cascading Style Sheets (CSS) as defining the “design” of a web page. It determines things like font size, margins, and colors using a language entirely separate from HTML. ([Hello, CSS](https://www.internetingishard.com/html-and-css/hello-css/))
 
 ## ⬜ Chapter 5 - The Box Model
 
