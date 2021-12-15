@@ -20,6 +20,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 > You can think of Cascading Style Sheets (CSS) as defining the “design” of a web page. It determines things like font size, margins, and colors using a language entirely separate from HTML. ([Hello, CSS](https://www.internetingishard.com/html-and-css/hello-css/))
 
+> The CSS hierarchy for every web page looks like this:
+> * The browser’s default stylesheet
+> * User-defined stylesheets
+> * External stylesheets (that’s us)
+> * Page-specific styles (that’s also us)
+> * Inline styles (that could be us, but it never should be)
+>
+> This is ordered from least to most precedence, which means styles defined in each subsequent step override previous ones. ([The Cascade](https://www.internetingishard.com/html-and-css/hello-css/#the-cascade))
+
 ## ⬜ Chapter 5 - The Box Model
 
 ## ⬜ Chapter 6 - CSS Selectors
