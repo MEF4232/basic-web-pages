@@ -11,9 +11,14 @@ h1 {
 p {
   /* padding: 20px 10px; /* Vertical Horizontal */
   padding: 20px 0 20px 10px; /* Top Right Bottom Left (aka North East South West) */
+  margin-bottom: 50px;
 }
 
 em, strong {
   background-color: #B2D6FF; /* Light blue */
   display: inline; /* This is the default for em and strong */
+}
+
+strong {
+  margin: 50px;
 }

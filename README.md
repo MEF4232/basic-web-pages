@@ -46,6 +46,14 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > * Margin – The space between the box and surrounding boxes.
 > ([The Box Model](https://www.internetingishard.com/html-and-css/css-box-model/#content-padding-border-and-margin))
 
+> Margins and padding can accomplish the same thing in a lot of situations, making it difficult to determine which one is the “right” choice. The most common reasons why you would pick one over the other are:
+> * The padding of a box has a background, while margins are always transparent.
+> * Padding is included in the click area of an element, while margins aren’t.
+> * Margins collapse vertically, while padding doesn’t.
+>
+> If none of these help you decide whether to use padding over margin, then don’t fret about it—just pick one. In CSS, there’s often more than one way to solve your problem. ([Margins](https://www.internetingishard.com/html-and-css/css-box-model/#margins))
+
+
 ## ⬜ Chapter 6 - CSS Selectors
 
 ## ⬜ Chapter 7 - Floats
