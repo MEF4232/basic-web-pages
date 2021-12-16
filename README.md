@@ -31,6 +31,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 5 - The Box Model
 
+> A couple of very important behaviors associated with block and inline boxes:
+> * Block boxes always appear below the previous block element. This is the “natural” or “static” flow of an HTML document when it gets rendered by a web browser.
+> * The width of block boxes is set automatically based on the width of its parent container. In this case, our blocks are always the width of the browser window.
+> * The default height of block boxes is based on the content it contains. When you narrow the browser window, the &lt;h1&gt; gets split over two lines, and its height adjusts accordingly.
+> * Inline boxes don’t affect vertical spacing. They’re not for determining layout—they’re for styling stuff inside of a block.
+> * The width of inline boxes is based on the content it contains, not the width of the parent element.
+> ([Block Vs Inline](https://www.internetingishard.com/html-and-css/css-box-model/#block-elements-and-inline-elements))
+
+
 ## ⬜ Chapter 6 - CSS Selectors
 
 ## ⬜ Chapter 7 - Floats
