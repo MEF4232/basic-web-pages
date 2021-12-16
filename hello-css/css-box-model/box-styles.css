@@ -4,6 +4,8 @@ h1, p {
 
 h1 {
   padding: 50px;
+  border-bottom: 1px solid #5D6063; /* Size Style Color */
+  /* border: 1px solid red; /* Debugging tool, shows how a box is being rendered */
 }
 
 p {
