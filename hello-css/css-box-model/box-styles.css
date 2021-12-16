@@ -11,6 +11,7 @@ h1 {
 p {
   /* padding: 20px 10px; /* Vertical Horizontal */
   padding: 20px 0 20px 10px; /* Top Right Bottom Left (aka North East South West) */
+  margin-top: 25px;
   margin-bottom: 50px;
 }
 
