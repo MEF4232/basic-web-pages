@@ -29,7 +29,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 >
 > This is ordered from least to most precedence, which means styles defined in each subsequent step override previous ones. ([The Cascade](https://www.internetingishard.com/html-and-css/hello-css/#the-cascade))
 
-## ⬜ Chapter 5 - The Box Model
+## ✅ Chapter 5 - The Box Model
 
 > A couple of very important behaviors associated with block and inline boxes:
 > * Block boxes always appear below the previous block element. This is the “natural” or “static” flow of an HTML document when it gets rendered by a web browser.
@@ -53,7 +53,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 >
 > If none of these help you decide whether to use padding over margin, then don’t fret about it—just pick one. In CSS, there’s often more than one way to solve your problem. ([Margins](https://www.internetingishard.com/html-and-css/css-box-model/#margins))
 
-
 ## ⬜ Chapter 6 - CSS Selectors
 
 ## ⬜ Chapter 7 - Floats
@@ -72,6 +71,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 14 - Web Typography
 
+---
 
 ## Shortcuts
 | Command | Description |
