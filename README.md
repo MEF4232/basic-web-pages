@@ -55,6 +55,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 6 - CSS Selectors
 
+> Pseudo-classes begin with a colon followed by the name of the desired class. The most common link pseudo-classes are as follows:
+> * :link – A link the user has never visited.
+> * :visited – A link the user has visited before.
+> * :hover – A link with the user’s mouse over it.
+> * :active – A link that’s being pressed down by a mouse (or finger). ([Basic Link Styles](https://www.internetingishard.com/html-and-css/css-selectors/#pseudo-classes-for-links))
+
 ## ⬜ Chapter 7 - Floats
 
 ## ⬜ Chapter 8 - Flexbox
