@@ -61,6 +61,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > * :hover – A link with the user’s mouse over it.
 > * :active – A link that’s being pressed down by a mouse (or finger). ([Basic Link Styles](https://www.internetingishard.com/html-and-css/css-selectors/#pseudo-classes-for-links))
 
+> Parts of a URL https://example.com/selector.html#button-2
+> * Scheme: "https://"
+> * Domain: "example.com"
+> * Path: "/selector.html"
+> * Fragment: "#button-2" ([URL Fragments](https://www.internetingishard.com/html-and-css/css-selectors/#id-selectors))
+
 ## ⬜ Chapter 7 - Floats
 
 ## ⬜ Chapter 8 - Flexbox
