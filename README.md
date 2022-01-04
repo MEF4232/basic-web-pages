@@ -53,7 +53,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 >
 > If none of these help you decide whether to use padding over margin, then don’t fret about it—just pick one. In CSS, there’s often more than one way to solve your problem. ([Margins](https://www.internetingishard.com/html-and-css/css-box-model/#margins))
 
-## ⬜ Chapter 6 - CSS Selectors
+## ✅ Chapter 6 - CSS Selectors
 
 > Pseudo-classes begin with a colon followed by the name of the desired class. The most common link pseudo-classes are as follows:
 > * :link – A link the user has never visited.
@@ -66,6 +66,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > * Domain: "example.com"
 > * Path: "/selector.html"
 > * Fragment: "#button-2" ([URL Fragments](https://www.internetingishard.com/html-and-css/css-selectors/#id-selectors))
+
+> Where to start building a new web page:
+> The separation of content from presentation helps guide this process. You need content before you can present it, so your first step is usually to mark up your raw content with HTML tags. Once that’s prepared, you’re ready to add class attributes to your elements and style them one-by-one. When you discover a need for some extra structure to create a desired layout (e.g., turn a group of elements into a sidebar), that’s when you start wrapping your content in container <div>’s. ([Summary](https://www.internetingishard.com/html-and-css/css-selectors/#summary))
 
 ## ⬜ Chapter 7 - Floats
 
