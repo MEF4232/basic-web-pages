@@ -82,3 +82,14 @@ a:visited:hover {
 a:visited:active {
   color: red;
 }
+
+p:last-of-type {
+  margin-bottom: 50px;
+}
+
+/*
+.page > p:first-of-type {
+  color: #7E8184;
+  font-style: italic;
+}
+*/
