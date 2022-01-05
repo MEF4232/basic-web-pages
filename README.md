@@ -68,9 +68,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > * Fragment: "#button-2" ([URL Fragments](https://www.internetingishard.com/html-and-css/css-selectors/#id-selectors))
 
 > Where to start building a new web page:
-> The separation of content from presentation helps guide this process. You need content before you can present it, so your first step is usually to mark up your raw content with HTML tags. Once that’s prepared, you’re ready to add class attributes to your elements and style them one-by-one. When you discover a need for some extra structure to create a desired layout (e.g., turn a group of elements into a sidebar), that’s when you start wrapping your content in container <div>’s. ([Summary](https://www.internetingishard.com/html-and-css/css-selectors/#summary))
+>
+> The separation of content from presentation helps guide this process. You need content before you can present it, so your first step is usually to mark up your raw content with HTML tags. Once that’s prepared, you’re ready to add class attributes to your elements and style them one-by-one. When you discover a need for some extra structure to create a desired layout (e.g., turn a group of elements into a sidebar), that’s when you start wrapping your content in container &lt;div&gt;’s. ([Summary](https://www.internetingishard.com/html-and-css/css-selectors/#summary))
 
 ## ⬜ Chapter 7 - Floats
+
+> “Floats” let you put block-level elements side-by-side instead of on top of each other. Float-based layouts have mostly been replaced with Flexbox in modern websites. ([Floats](https://www.internetingishard.com/html-and-css/floats/#setup))
 
 ## ⬜ Chapter 8 - Flexbox
 
