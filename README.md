@@ -75,6 +75,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 > “Floats” let you put block-level elements side-by-side instead of on top of each other. Float-based layouts have mostly been replaced with Flexbox in modern websites. ([Floats](https://www.internetingishard.com/html-and-css/floats/#setup))
 
+> When you have an extra unfloated HTML element at the bottom of a container div, use the clear solution. Otherwise, add an overflow: hidden declaration to the container element. The underlying idea for both options is that you need a way to tell the browser to incorporate floats into the height of their container element in order for their backgrounds to show up. ([Hiding Overflow](https://www.internetingishard.com/html-and-css/floats/#after-a-float))
+
 ## ⬜ Chapter 8 - Flexbox
 
 ## ⬜ Chapter 9 - Advanced Positioning
