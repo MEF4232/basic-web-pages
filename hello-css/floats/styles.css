@@ -34,12 +34,11 @@
 }
 
 .footer {
-  clear: both;
-  height: 200px;
+  overflow: hidden;
   background-color: #D6E9FE; /* Light blue */
 }
 
-.column {
+.footer-item {
   float: left;
   width: 31%;
   margin: 20px 1.15%;
