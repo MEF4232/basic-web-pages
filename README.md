@@ -71,13 +71,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 >
 > The separation of content from presentation helps guide this process. You need content before you can present it, so your first step is usually to mark up your raw content with HTML tags. Once that’s prepared, you’re ready to add class attributes to your elements and style them one-by-one. When you discover a need for some extra structure to create a desired layout (e.g., turn a group of elements into a sidebar), that’s when you start wrapping your content in container &lt;div&gt;’s. ([Summary](https://www.internetingishard.com/html-and-css/css-selectors/#summary))
 
-## ⬜ Chapter 7 - Floats
+## ✅ Chapter 7 - Floats
 
 > “Floats” let you put block-level elements side-by-side instead of on top of each other. Float-based layouts have mostly been replaced with Flexbox in modern websites. ([Floats](https://www.internetingishard.com/html-and-css/floats/#setup))
 
 > When you have an extra unfloated HTML element at the bottom of a container div, use the clear solution. Otherwise, add an overflow: hidden declaration to the container element. The underlying idea for both options is that you need a way to tell the browser to incorporate floats into the height of their container element in order for their backgrounds to show up. ([Hiding Overflow](https://www.internetingishard.com/html-and-css/floats/#after-a-float))
 
 ## ⬜ Chapter 8 - Flexbox
+
+> Whereas floats only let us horizontally position our boxes, flexbox gives us complete control over the alignment, direction, order, and size of our boxes...Our recommendation is to use flexbox to lay out your web pages as much as possible, reserving floats for when you need text to flow around a box (i.e., a magazine-style layout) or when you need to support legacy web browsers. ([Flexbox](https://www.internetingishard.com/html-and-css/flexbox/))
 
 ## ⬜ Chapter 9 - Advanced Positioning
 
