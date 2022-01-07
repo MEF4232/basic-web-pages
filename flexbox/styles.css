@@ -13,6 +13,8 @@
 }
 
 .menu {
-  boder: 1px solid #FFF; /* For debugging */
+  border: 1px solid #FFF; /* For debugging */
   width: 900px;
+  display: flex;
+  justify-content: space-between;
 }
