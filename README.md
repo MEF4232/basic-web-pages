@@ -77,7 +77,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 > When you have an extra unfloated HTML element at the bottom of a container div, use the clear solution. Otherwise, add an overflow: hidden declaration to the container element. The underlying idea for both options is that you need a way to tell the browser to incorporate floats into the height of their container element in order for their backgrounds to show up. ([Hiding Overflow](https://www.internetingishard.com/html-and-css/floats/#after-a-float))
 
-## ⬜ Chapter 8 - Flexbox
+## ✅ Chapter 8 - Flexbox
 
 > Whereas floats only let us horizontally position our boxes, flexbox gives us complete control over the alignment, direction, order, and size of our boxes...Our recommendation is to use flexbox to lay out your web pages as much as possible, reserving floats for when you need text to flow around a box (i.e., a magazine-style layout) or when you need to support legacy web browsers. ([Flexbox](https://www.internetingishard.com/html-and-css/flexbox/))
 
