@@ -50,6 +50,14 @@ a:hover {
   background: #B2D6FF;
   border-radius: 5px;
   padding-top: 60px;
+
+  position: absolute;
+  top: -25px;
+  left: -30px;
+}
+
+.dropdown {
+  position: relative;
 }
 
 .features-menu li {
