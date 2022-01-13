@@ -83,7 +83,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ✅ Chapter 9 - Advanced Positioning
 
-> Take note of that `position: relative;` line. It’s <em>required</em> because only positioned elements pay attention to their z-index property. This is easy to forget, so make a mental note for the next time you’re having depth issues and your CSS rules don’t seem to have any effect. ([Z-Index](https://www.internetingishard.com/html-and-css/advanced-positioning/#z-index))
+> Take note of that `position: relative;` line. It’s <em>required</em> because only positioned elements pay attention to their z-index property. This is easy to forget, so make a mental note for the next time you’re having depth issues and your CSS rules don’t seem to have any effect. ([Z-Index](https://www.internetingishard.com/html-and-css/advanced-positioning/#z-index
+
+> Relative positioning was for tweaking the position of an element without affecting its surrounding boxes.
+>
+> Absolute positioning took elements out of the static flow of the page and placed them relative to the browser window, while relatively absolute positioning allowed us to hook back into the static flow of the page.
+>
+> Finally, fixed positioning let us make elements that didn't scroll with the rest of the page. ([Summary](https://www.internetingishard.com/html-and-css/advanced-positioning/#summary))
+
+
 
 ## ⬜ Chapter 10 - Responsive Design
 
