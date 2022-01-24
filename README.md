@@ -104,13 +104,16 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > - CSS rules for implementing each of those layouts
 > - Media queries for conditionally applying those CSS rules. ([Summary](https://www.internetingishard.com/html-and-css/responsive-design/#summary))
 
-## ⬜ Chapter 11 - Responsive Images
+## ✅ Chapter 11 - Responsive Images
 
 > To make our images responsive, we have to take three things into consideration:
 > - The device’s dimensions
 > - The image’s dimensions
 > - The device’s screen resolution ([Responsive Images](https://www.internetingishard.com/html-and-css/responsive-images/))
 
+> Only trying to solve two problems:
+> - Make images fit into mobile layouts while respecting their intrinsic size
+> - Avoid making the user download unnecessarily large image files ([Summary](https://www.internetingishard.com/html-and-css/responsive-images/#summary))
 
 ## ⬜ Chapter 12 - Semantic HTML
 
