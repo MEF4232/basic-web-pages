@@ -91,8 +91,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 >
 > Finally, fixed positioning let us make elements that didn't scroll with the rest of the page. ([Summary](https://www.internetingishard.com/html-and-css/advanced-positioning/#summary))
 
-
-
 ## ⬜ Chapter 10 - Responsive Design
 
 ## ⬜ Chapter 11 - Responsive Images
