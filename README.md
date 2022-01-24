@@ -125,3 +125,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 | ------- | ----------- |
 | Cmd+T   | search filenames |
 | Cmd+R   | reload web browser |
+| &lt;!-- test --&gt;| add comments to html |
