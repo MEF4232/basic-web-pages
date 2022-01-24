@@ -91,13 +91,18 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 >
 > Finally, fixed positioning let us make elements that didn't scroll with the rest of the page. ([Summary](https://www.internetingishard.com/html-and-css/advanced-positioning/#summary))
 
-## ⬜ Chapter 10 - Responsive Design
+## ✅ Chapter 10 - Responsive Design
 
 > Media Queries are written `At-Rule Media-Type AND Media-Feature { CSS-Rules }` ([CSS Media Queries](https://www.internetingishard.com/html-and-css/responsive-design/#css-media-queries))
 
-> A “fluid” layout is one that stretches and shrinks to fill the width of the screen. Fluid layouts let us target a range of screen widths instead of specific mobile devices. 
+> A “fluid” layout is one that stretches and shrinks to fill the width of the screen. Fluid layouts let us target a range of screen widths instead of specific mobile devices.
 >
 > A “fixed-width” layout is the opposite: it has the same width regardless of the screen dimensions. ([Notes on Design](https://www.internetingishard.com/html-and-css/responsive-design/#a-few-notes-on-design))
+
+> Only three components for creating responsive websites:
+> - The responsive design (the mockups for each layout)
+> - CSS rules for implementing each of those layouts
+> - Media queries for conditionally applying those CSS rules. ([Summary](https://www.internetingishard.com/html-and-css/responsive-design/#summary))
 
 ## ⬜ Chapter 11 - Responsive Images
 
