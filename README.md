@@ -106,6 +106,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 11 - Responsive Images
 
+> To make our images responsive, we have to take three things into consideration:
+> - The device’s dimensions
+> - The image’s dimensions
+> - The device’s screen resolution ([Responsive Images](https://www.internetingishard.com/html-and-css/responsive-images/))
+
+
 ## ⬜ Chapter 12 - Semantic HTML
 
 ## ⬜ Chapter 13 - Forms
