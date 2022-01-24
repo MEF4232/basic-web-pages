@@ -93,6 +93,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 10 - Responsive Design
 
+> Media Queries are written `At-Rule Media-Type AND Media-Feature { CSS-Rules }`
+
 ## ⬜ Chapter 11 - Responsive Images
 
 ## ⬜ Chapter 12 - Semantic HTML
