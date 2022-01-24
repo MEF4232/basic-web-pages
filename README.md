@@ -93,7 +93,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 10 - Responsive Design
 
-> Media Queries are written `At-Rule Media-Type AND Media-Feature { CSS-Rules }`
+> Media Queries are written `At-Rule Media-Type AND Media-Feature { CSS-Rules }` ([CSS Media Queries](https://www.internetingishard.com/html-and-css/responsive-design/#css-media-queries))
+
+> A “fluid” layout is one that stretches and shrinks to fill the width of the screen. Fluid layouts let us target a range of screen widths instead of specific mobile devices. 
+>
+> A “fixed-width” layout is the opposite: it has the same width regardless of the screen dimensions. ([Notes on Design](https://www.internetingishard.com/html-and-css/responsive-design/#a-few-notes-on-design))
 
 ## ⬜ Chapter 11 - Responsive Images
 
