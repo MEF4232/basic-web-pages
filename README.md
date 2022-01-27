@@ -117,6 +117,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 12 - Semantic HTML
 
+> “Semantic HTML” refers to the idea that all your HTML markup should convey the underlying meaning of your content—not its appearance. ([Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/))
+
 ## ⬜ Chapter 13 - Forms
 
 ## ⬜ Chapter 14 - Web Typography
