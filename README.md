@@ -121,6 +121,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 ## ⬜ Chapter 13 - Forms
 
+> There are two aspects of a functional HTML form: the frontend user interface and the backend server. The former is the appearance of the form (as defined by HTML and CSS), while the latter is the code that processes it (storing data in a database, sending an email, etc). ([Forms](https://www.internetingishard.com/html-and-css/forms/))
+
 ## ⬜ Chapter 14 - Web Typography
 
 ---
