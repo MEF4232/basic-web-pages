@@ -115,7 +115,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > - Make images fit into mobile layouts while respecting their intrinsic size
 > - Avoid making the user download unnecessarily large image files ([Summary](https://www.internetingishard.com/html-and-css/responsive-images/#summary))
 
-## ⬜ Chapter 12 - Semantic HTML
+## ✅ Chapter 12 - Semantic HTML
 
 > “Semantic HTML” refers to the idea that all your HTML markup should convey the underlying meaning of your content—not its appearance. ([Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/))
 
