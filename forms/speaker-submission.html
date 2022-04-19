@@ -12,10 +12,13 @@
         this form.</em></p>
     </header>
 
-    <form action='' method='get' class='speaker-form'
+    <form action='' method='get' class='speaker-form'>
       <div class='form-row'>
         <label for='full-name'>Name</label>
-        <input id='full-name' name='full-name' type='text' placeholder='Full Name' minlength='3'/>
+        <input id='full-name'
+               name='full-name'
+               type='text'
+               placeholder='Full Name'/>
       </div>
 
       <div class='form-row'>
@@ -25,6 +28,22 @@
                type='email'
                placeholder='joe@example.com'/>
       </div>
+
+      <fieldset class='legacy-form-row'>
+        <legend>Type of Talk</legend>
+        <input id='talk-type-1'
+               name='talk-type'
+               type='radio'
+               value='main-stage' />
+        <label for='talk-type-1' class='radio-label'>Main Stage</label>
+        <input id='talk-type-2'
+               name='talk-type'
+               type='radio'
+               value='workshop'
+               checked />
+        <label for='talk-type-2' class='radio-label'>Workshop</label>
+      </fieldset>
+
     </form>
   </body>
 </html>
