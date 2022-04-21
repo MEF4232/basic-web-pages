@@ -119,11 +119,13 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 > “Semantic HTML” refers to the idea that all your HTML markup should convey the underlying meaning of your content—not its appearance. ([Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/))
 
-## ⬜ Chapter 13 - Forms
+## ✅ Chapter 13 - Forms
 
 > There are two aspects of a functional HTML form: the frontend user interface and the backend server. The former is the appearance of the form (as defined by HTML and CSS), while the latter is the code that processes it (storing data in a database, sending an email, etc). ([Forms](https://www.internetingishard.com/html-and-css/forms/))
 
 ## ⬜ Chapter 14 - Web Typography
+
+> Web typography includes font family, relative font sizes, ident style, text alignment, vertical spacing, and line length. ([Web Typography](https://www.internetingishard.com/html-and-css/web-typography/))
 
 ---
 
