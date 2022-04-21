@@ -127,6 +127,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 > Web typography includes font family, relative font sizes, ident style, text alignment, vertical spacing, and line length. ([Web Typography](https://www.internetingishard.com/html-and-css/web-typography/))
 
+> Web Safe Fonts: a collection of a dozen or so fonts that were pre-installed on most computers. There was no such thing as a custom font file that you could send to browsers to use on your website.
+>
+> Custom Web Fonts: each browser and device required a different file format (.svg, .eot, .tt, .woff). This resulted in the “Bulletproof @font-face syntax”
+>
+> The current standard is Web Open Font Format (WOOF) ([A Brief History of Web Fonts](https://www.internetingishard.com/html-and-css/web-typography/#a-brief-history-of-web-fonts))
+
 ---
 
 ## Shortcuts
