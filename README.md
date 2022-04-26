@@ -123,7 +123,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 > There are two aspects of a functional HTML form: the frontend user interface and the backend server. The former is the appearance of the form (as defined by HTML and CSS), while the latter is the code that processes it (storing data in a database, sending an email, etc). ([Forms](https://www.internetingishard.com/html-and-css/forms/))
 
-## ⬜ Chapter 14 - Web Typography
+## ✅ Chapter 14 - Web Typography
 
 > Web typography includes font family, relative font sizes, ident style, text alignment, vertical spacing, and line length. ([Web Typography](https://www.internetingishard.com/html-and-css/web-typography/))
 
@@ -132,6 +132,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 > Custom Web Fonts: each browser and device required a different file format (.svg, .eot, .tt, .woff). This resulted in the “Bulletproof @font-face syntax”
 >
 > The current standard is Web Open Font Format (WOOF) ([A Brief History of Web Fonts](https://www.internetingishard.com/html-and-css/web-typography/#a-brief-history-of-web-fonts))
+
+> A few final guidelines:
+> - Use a font-size between 14px and 20px for the body element.
+> - Use “curly quotes” and apostrophes with the [& rsquo ;], [& lsquo ;], [& rdquo ;], and [& ldquo ;] HTML entities.
+> - Use proper dashes (&ndash;, &mdash;) and other symbols (&copy;).
+> - Don’t use text-decoration: underline except for hover states.
+> - Use real italic fonts over synthesized ones if not it’s too much of a performance burden. ([Other Guidelines](https://www.internetingishard.com/html-and-css/web-typography/#other-basic-typography-guidelines))
+
+> The most important thing you should take away from this chapter is the fact that nothing is arbitrary in a well-designed web page. The font sizes, indent style, text alignment, line height, margins, and every other tiny facet of the page was carefully considered. There was a purpose behind all of these decisions. ([Summary](https://www.internetingishard.com/html-and-css/web-typography/#summary))
 
 ---
 
